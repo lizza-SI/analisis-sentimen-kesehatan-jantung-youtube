@@ -1,0 +1,10 @@
+yt-dlp
+pandas
+numpy
+matplotlib
+wordcloud
+scikit-learn
+seaborn
+streamlit
+joblib
+openpyxl

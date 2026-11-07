@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.8267045454545454,
+  "precision_macro": 0.8198961609672311,
+  "recall_macro": 0.5993464052287582,
+  "f1_macro": 0.6596646788393837,
+  "total_data": 1756,
+  "total_training": 1404,
+  "total_testing": 352
+}
